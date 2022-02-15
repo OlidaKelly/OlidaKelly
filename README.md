@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-- 👋 Hi, I'm @OlidaKelly
+- 👋 Hi, I'm @OlidaKelly Junior Web Developer
 - 👀 I'm interested in new technologies and lots of things...
 - 💻 I'm learning JavaScript | React | NodeJs and I'm determined to learn a lot more...
 - 🤝 I'm looking to collaborate on projects that are meaningful and fun.
