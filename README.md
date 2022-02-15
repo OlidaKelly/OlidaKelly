@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-- 👋 Hi, I'm @OlidaKelly Junior Web Developer
+- 👋 Hi, I'm @OlidaKelly Junior Web Developer in France 🇨🇵
 - 👩🏽‍💻 I’m currently looking for an apprenticeship training.
 - 👀 I'm interested in new technologies and lots of things...
 - 💻 I'm learning JavaScript | React | NodeJs | SQL and I'm determined to learn a lot more...
