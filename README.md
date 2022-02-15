@@ -1,4 +1,4 @@
-### Hi there 👋
+### Welcome on my Github 👋
 
 <!--
 **OlidaKelly/Olidakelly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+- 👋 Hi, I'm @OlidaKelly
+- 👀 I'm interested in new technologies and lots of things...
+- 🌱 I'm learning JavaScript | React | NodeJs and would love to learn so many language...
+- 💞️ I'm looking to collaborate on projects that are meaningful and fun.
+- 📫 Join me on Linkedin: https://www.linkedin.com/in/kelly-olida-46bb4a226/
+
