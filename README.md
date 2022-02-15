@@ -17,8 +17,9 @@ Here are some ideas to get you started:
 
 
 - 👋 Hi, I'm @OlidaKelly Junior Web Developer
+- 👩🏽‍💻 I’m currently looking for an apprenticeship training.
 - 👀 I'm interested in new technologies and lots of things...
-- 💻 I'm learning JavaScript | React | NodeJs and I'm determined to learn a lot more...
+- 💻 I'm learning JavaScript | React | NodeJs | SQL and I'm determined to learn a lot more...
 - 🤝 I'm looking to collaborate on projects that are meaningful and fun.
 - 📫 Join me on Linkedin: https://www.linkedin.com/in/kelly-olida-46bb4a226/
 
